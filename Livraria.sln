@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaAmoLer", "LivrariaAmoLer\LivrariaAmoLer.csproj", "{1AFA7727-5C5C-4EDC-A84B-0CE857665FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaAmoLerDomain", "LivrariaAmoLerDomain\LivrariaAmoLerDomain.csproj", "{D8C17854-1E85-42CC-B3A4-EED73E4CD043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFA7727-5C5C-4EDC-A84B-0CE857665FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFA7727-5C5C-4EDC-A84B-0CE857665FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFA7727-5C5C-4EDC-A84B-0CE857665FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFA7727-5C5C-4EDC-A84B-0CE857665FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C17854-1E85-42CC-B3A4-EED73E4CD043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C17854-1E85-42CC-B3A4-EED73E4CD043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C17854-1E85-42CC-B3A4-EED73E4CD043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C17854-1E85-42CC-B3A4-EED73E4CD043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F58C63CD-F623-45EA-BF8B-21724E9497A7}
+	EndGlobalSection
+EndGlobal

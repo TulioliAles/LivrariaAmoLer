@@ -1,0 +1,6 @@
+C:\work\aspnet\Livraria\LivrariaAmoLerDomain\bin\Debug\LivrariaAmoLerDomain.dll
+C:\work\aspnet\Livraria\LivrariaAmoLerDomain\bin\Debug\LivrariaAmoLerDomain.pdb
+C:\work\aspnet\Livraria\LivrariaAmoLerDomain\obj\Debug\LivrariaAmoLerDomain.csprojAssemblyReference.cache
+C:\work\aspnet\Livraria\LivrariaAmoLerDomain\obj\Debug\LivrariaAmoLerDomain.csproj.CoreCompileInputs.cache
+C:\work\aspnet\Livraria\LivrariaAmoLerDomain\obj\Debug\LivrariaAmoLerDomain.dll
+C:\work\aspnet\Livraria\LivrariaAmoLerDomain\obj\Debug\LivrariaAmoLerDomain.pdb
